@@ -1,0 +1,1 @@
+ALTER TABLE public.produtos ADD COLUMN IF NOT EXISTS estoque_transporte integer NOT NULL DEFAULT 0;
