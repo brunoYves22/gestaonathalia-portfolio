@@ -18,6 +18,58 @@ Cópia independente para portfólio, com histórico novo. Não está conectada �
 
 React, TypeScript, Vite, Tailwind CSS, shadcn/ui e Supabase (PostgreSQL).
 
+## Telas do sistema
+
+> Capturas fornecidas pelo autor e editadas para demonstração. Nomes de clientes, produtos, valores, quantidades, datas e gráficos foram substituídos por dados fictícios. As imagens ilustram a interface e não representam resultados reais do negócio.
+
+### Painel do negócio
+
+Indicadores de faturamento, lucro, vendas, ticket médio e atalhos para as operações.
+
+![Painel do negócio — demonstração](docs/screenshots/01-painel.png)
+
+### Caixa de vendas
+
+Catálogo, disponibilidade de estoque, seleção de cliente e carrinho de venda.
+
+![Caixa de vendas — demonstração](docs/screenshots/02-caixa.png)
+
+### Formas de pagamento
+
+Seleção de dinheiro, Pix ou cartão e finalização da venda.
+
+![Formas de pagamento — demonstração](docs/screenshots/03-pagamento.png)
+
+### Produtos e estoque
+
+Consulta de produtos, custos e quantidades na loja e em transporte.
+
+![Produtos e estoque — demonstração](docs/screenshots/04-produtos.png)
+
+### Cadastro de clientes
+
+Formulário com nome, CPF, telefone, email e observações.
+
+![Cadastro de clientes — demonstração](docs/screenshots/05-clientes.png)
+
+### Relatórios e indicadores
+
+Filtros por período e pagamento, indicadores financeiros e gráfico de vendas.
+
+![Relatórios e indicadores — demonstração](docs/screenshots/06-relatorios.png)
+
+### Rankings e histórico
+
+Clientes e produtos em destaque, com consulta das vendas do período.
+
+![Rankings e histórico — demonstração](docs/screenshots/07-ranking.png)
+
+### Detalhamento dos itens vendidos
+
+Consulta de cliente, produto, quantidade, custo, preço de venda e lucro por item.
+
+![Detalhamento dos itens vendidos — demonstração](docs/screenshots/08-itens.png)
+
 ## Executar localmente
 
 Pré-requisitos: Node.js, npm e um projeto Supabase de teste.
